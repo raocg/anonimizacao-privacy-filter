@@ -1,0 +1,31 @@
+{
+  "category_version": "v_pt_br",
+  "span_class_names": [
+    "O",
+    "nome_pessoal",
+    "cpf",
+    "cnpj",
+    "endereco_pessoal",
+    "telefone_pessoal",
+    "email_pessoal",
+    "data_pessoal",
+    "numero_conta",
+    "numero_agencia",
+    "rg",
+    "cnh",
+    "numero_cartao",
+    "url_pessoal",
+    "nome_mae",
+    "data_nascimento",
+    "profissao",
+    "empresa",
+    "cargo",
+    "salario",
+    "numero_processo",
+    "numero_processo_legal",
+    "senha",
+    "api_key",
+    "token",
+    "secret"
+  ]
+}
